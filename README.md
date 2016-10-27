@@ -16,4 +16,3 @@ $ cd state-contiguity-force-simulation
 $ npm install
 $ npm start
 ```
-https://github.com/DavOnGit/state-contiguity-force-simulation.git
